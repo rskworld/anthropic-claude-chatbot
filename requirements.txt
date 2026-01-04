@@ -1,0 +1,18 @@
+# Anthropic Claude Chatbot - Python Dependencies
+# Project: Anthropic Claude Chatbot
+# Category: OpenAI Integration
+# Year: 2026
+#
+# Developer Details:
+# - Website: https://rskworld.in
+# - Email: help@rskworld.in, support@rskworld.in
+# - Phone: +91 93305 39277
+# - Organization: RSK World
+# - Founder: Molla Samser
+# - Designer & Tester: Rima Khatun
+
+Flask==3.0.0
+flask-cors==4.0.0
+anthropic==0.34.2
+python-dotenv==1.0.0
+
